@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TRIVIA</string>
+    <string name="trivia">TRIVIA</string>
+    <string name="questions_45_87">Questions 45/87</string>
+    <string name="hello_my_name_is_farhan_ahmad_and_am_pursuing_btech">Hello My name is farhan Ahmad and am pursuing btech</string>
+    <string name="textview">TextView</string>
+    <string name="highest_score_0">Highest Score :0</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="questionsdisplay">The New York City subway system, in an effort to raise revenue, is considering selling sponsorships of individual stations to corporations. Riders could soon be getting off at Nike Grand Central Station or Sony Times Square.</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="your_name_is">Your Name is</string>
+    <string name="triva">TRIVIA</string>
+</resources>
